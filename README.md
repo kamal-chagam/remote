@@ -13,4 +13,4 @@ https://zapier.com/jobs/
 
 https://jobs.lever.co/percona - Go, React
 
-https://jobs.lever.co/simplebet/685e4faa-ae0f-476d-a83f-8b7f15530745  - Elixir, Phoenix
+https://jobs.lever.co/simplebet  - Elixir, Phoenix
