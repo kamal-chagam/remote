@@ -14,3 +14,5 @@ https://zapier.com/jobs/
 https://jobs.lever.co/percona - Go, React
 
 https://jobs.lever.co/simplebet  - Elixir, Phoenix
+
+https://slab.com/about/#jobs  -
