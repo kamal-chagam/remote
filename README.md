@@ -21,6 +21,4 @@ https://handsontable.com/team
 
 https://baserow.io/jobs
 
-
-## GO
-https://crisp.chat/en/careers/
+https://crisp.chat/en/careers/  - GO
