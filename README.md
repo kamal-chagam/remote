@@ -24,3 +24,5 @@ https://baserow.io/jobs
 https://crisp.chat/en/careers/  - GO
 
 https://semgrep.dev/about/careers  - security - handsome salary  Pacific, Eastern, and Central EU time zones.
+
+https://blueskyweb.xyz/join
