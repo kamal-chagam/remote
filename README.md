@@ -30,3 +30,5 @@ https://blueskyweb.xyz/join  - CST/PST
 https://zeek.com/careers/ -
 
 https://www.onlyoffice.com/vacancies.aspx - php/java/node
+
+https://creativeforce.team/careers/engineering/laravel-jedi-remote - Laravel/vuejs
